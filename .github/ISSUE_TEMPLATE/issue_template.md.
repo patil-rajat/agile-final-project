@@ -7,9 +7,14 @@ assignees: ''
 
 ---
 
-**As a** [role]  
-**I need** [what]  
-**So that** [benefit]  
+**As a**  
+[role]
+
+**I need**  
+[what]
+
+**So that**  
+[benefit]
 
 ### Details and Assumptions
 
@@ -18,7 +23,6 @@ assignees: ''
 ### Acceptance Criteria
 
 ```gherkin
-Given [context]
-When [action]
-Then [expected outcome]
-```
+Given [context]  
+When [action]  
+Then [expected outcome]  
