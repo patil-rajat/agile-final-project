@@ -1,0 +1,24 @@
+---
+name: Issue Template
+about: Use this template to report issues or create tasks
+title: "[Title of Issue]"
+labels: enhancement
+assignees: ''
+
+---
+
+**As a** [role]  
+**I need** [what]  
+**So that** [benefit]  
+
+### Details and Assumptions
+
+- [ ] Add any specific details or assumptions here.
+
+### Acceptance Criteria
+
+```gherkin
+Given [context]
+When [action]
+Then [expected outcome]
+```
